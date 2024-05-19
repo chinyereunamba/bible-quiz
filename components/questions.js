@@ -1,4 +1,4 @@
-const data = [
+const dataOld = [
     {
         id: 1, question: "Where can the 10 commandments be found in the Bible (book and chapter)?"
     },
@@ -94,5 +94,139 @@ const data = [
             "Sold into slavery by his brethren, sent to prision ny his master over alleged sexual assault, and later exhalted.<br/><br/> <strong>What is his name and where in the Bible can we find this account?</strong>",
     },
 ];
+
+const data = [
+  {
+    "id": 1,
+    "question": "Which judge of Israel made a vow that resulted in him sacrificing his daughter?",
+    "answer": "Jephthah"
+  },
+  {
+    "id": 2,
+    "question": "In which book of the Bible is the story of Balaam and his talking donkey?",
+    "answer": "Numbers"
+  },
+  {
+    "id": 3,
+    "question": "What was the name of the high priest who mentored Samuel?",
+    "answer": "Eli"
+  },
+  {
+    "id": 4,
+    "question": "Which New Testament book is written to a wealthy Christian named Theophilus?",
+    "answer": "Luke"
+  },
+  {
+    "id": 5,
+    "question": "What was the name of David's first wife?",
+    "answer": "Michal"
+  },
+  {
+    "id": 6,
+    "question": "Which Old Testament book is a collection of love poems?",
+    "answer": "Song of Solomon (Song of Songs)"
+  },
+  {
+    "id": 7,
+    "question": "What is the name of the place where Jacob dreamed of a ladder reaching to heaven?",
+    "answer": "Bethel"
+  },
+  {
+    "id": 8,
+    "question": "Which New Testament letter emphasizes faith without works is dead?",
+    "answer": "James"
+  },
+  {
+    "id": 9,
+    "question": "Who was the prophet that married a prostitute to symbolize Israel's unfaithfulness to God?",
+    "answer": "Hosea"
+  },
+  {
+    "id": 10,
+    "question": "Which book of the Bible begins with 'In the beginning was the Word, and the Word was with God, and the Word was God'?",
+    "answer": "John"
+  },
+  {
+    "id": 11,
+    "question": "Which New Testament character was struck dead for lying to the Holy Spirit?",
+    "answer": "Ananias (and his wife Sapphira)"
+  },
+  {
+    "id": 12,
+    "question": "Who was the mother of John the Baptist?",
+    "answer": "Elizabeth"
+  },
+  {
+    "id": 13,
+    "question": "In which book of the Bible is the story of the sun standing still during a battle?",
+    "answer": "Joshua"
+  },
+  {
+    "id": 14,
+    "question": "Which epistle addresses the 'fruit of the Spirit'?",
+    "answer": "Galatians"
+  },
+  {
+    "id": 15,
+    "question": "What was the name of the Roman centurion who became a follower of Jesus after a vision?",
+    "answer": "Cornelius"
+  },
+  {
+    "id": 16,
+    "question": "Which book contains the prophecy of the valley of dry bones?",
+    "answer": "Ezekiel"
+  },
+  {
+    "id": 17,
+    "question": "Who was the prophet that confronted David about his sin with Bathsheba?",
+    "answer": "Nathan"
+  },
+  {
+    "id": 18,
+    "question": "What is the Hebrew name for the first five books of the Old Testament?",
+    "answer": "Torah"
+  },
+  {
+    "id": 19,
+    "question": "What was the occupation of Simon Peter before he became an apostle?",
+    "answer": "Fisherman"
+  },
+  {
+    "id": 20,
+    "question": "Which book of the Bible tells the story of the fall of Jericho?",
+    "answer": "Joshua"
+  },
+  {
+    "id": 21,
+    "question": "Which prophet confronted King Ahab about his wickedness and prophesied a drought?",
+    "answer": "Elijah"
+  },
+  {
+    "id": 22,
+    "question": "Who was the woman who hid the Israelite spies in Jericho?",
+    "answer": "Rahab"
+  },
+  {
+    "id": 23,
+    "question": "What does the name 'Emmanuel' mean?",
+    "answer": "God with us"
+  },
+  {
+    "id": 24,
+    "question": "In which book is the phrase 'Vanity of vanities, all is vanity' found?",
+    "answer": "Ecclesiastes"
+  },
+  {
+    "id": 25,
+    "question": "Who was the first person to see Jesus after His resurrection?",
+    "answer": "Mary Magdalene"
+  },
+  {
+    "id": 26,
+    "question": "Which New Testament book contains the Beatitudes?",
+    "answer": "Matthew"
+  }
+]
+      
 
 export { data };
