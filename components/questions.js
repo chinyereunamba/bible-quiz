@@ -227,6 +227,145 @@ const data = [
     "answer": "Matthew"
   }
 ]
+
+
+const new = [
+  {
+    "id": 1,
+    "question": "What was the name of the man who named all the things in the Garden of Eden?",
+    "answer": "Adam"
+  },
+  {
+    "id": 2,
+    "question": "Who said 'the serpent deceived me'?",
+    "answer": "Eve"
+  },
+  {
+    "id": 3,
+    "question": "What is the name of Adam's third son?",
+    "answer": "Seth"
+  },
+  {
+    "id": 4,
+    "question": "To whom was the Lord speaking when He said, 'I will make your descendants as the stars of the heaven; so that if one can number the stars of the heaven, then your descendants also can be numbered'?",
+    "answer": "Abraham"
+  },
+  {
+    "id": 5,
+    "question": "Who hid her father's household gods and then lied to her husband about it?",
+    "answer": "Rachel"
+  },
+  {
+    "id": 6,
+    "question": "What was the name of Jacob's daughter?",
+    "answer": "Dinah"
+  },
+  {
+    "id": 7,
+    "question": "Which man was imprisoned after fleeing from sexual temptation but later became the ruler of the land?",
+    "answer": "Joseph"
+  },
+  {
+    "id": 8,
+    "question": "Who said to the Lord, 'O my Lord, I am not eloquent... I am slow of speech and slow of tongue'?",
+    "answer": "Moses"
+  },
+  {
+    "id": 9,
+    "question": "Who said to Moses, 'The thing that you do is not good. Both you and these people who are with you will surely wear yourselves out. For this thing is too much for you; you are not able to perform it by yourself'?",
+    "answer": "Jethro"
+  },
+  {
+    "id": 10,
+    "question": "What was the name of Ruth's son?",
+    "answer": "Obed"
+  },
+  {
+    "id": 11,
+    "question": "What was the name of David's father?",
+    "answer": "Jesse"
+  },
+  {
+    "id": 12,
+    "question": "To whom was the statement 'Behold, to obey is better than sacrifice' directed?",
+    "answer": "King Saul"
+  },
+  {
+    "id": 13,
+    "question": "Who said, 'Entreat me not to leave you, or to turn back from following after you; for wherever you go, I will go; and wherever you lodge, I will lodge; your people shall be my people, and your God, my God'?",
+    "answer": "Ruth"
+  },
+  {
+    "id": 14,
+    "question": "Which man was described as having an excellent spirit?",
+    "answer": "Daniel"
+  },
+  {
+    "id": 15,
+    "question": "Who was described as a man after God's own heart?",
+    "answer": "David"
+  },
+  {
+    "id": 16,
+    "question": "What is the name of the prophet who told a parable to a king in order to deliver a message from God?",
+    "answer": "Nathan"
+  },
+  {
+    "id": 17,
+    "question": "Who is referred to as Paul's son in the faith?",
+    "answer": "Timothy"
+  },
+  {
+    "id": 18,
+    "question": "Which apostle wrote the most letters to the churches and often described himself as a prisoner of Jesus Christ?",
+    "answer": "Paul"
+  },
+  {
+    "id": 19,
+    "question": "Which disciple was persecuted and traditionally believed to have been thrown into boiling oil but survived, and was the only apostle to die of natural causes?",
+    "answer": "John"
+  },
+  {
+    "id": 20,
+    "question": "Who took upon himself the burden to rebuild the walls of his hometown to provide security and prevent enemies from tearing it down?",
+    "answer": "Nehemiah"
+  },
+  {
+    "id": 21,
+    "question": "What is the name of the disciple who cut off the ear of the high priest's servant?",
+    "answer": "Peter"
+  },
+  {
+    "id": 22,
+    "question": "Complete this verse: 'Keep your heart with all diligence...'",
+    "answer": "'...for out of it spring the issues of life.' (Proverbs 4:23)"
+  },
+  {
+    "id": 23,
+    "question": "What are the names of Joseph's two sons?",
+    "answer": "Ephraim and Manasseh"
+  },
+  {
+    "id": 24,
+    "question": "Which book of the Bible has the most chapters?",
+    "answer": "Psalms"
+  },
+  {
+    "id": 25,
+    "question": "How many books are there in the Bible (Old and New Testaments)?",
+    "answer": "66"
+  },
+  {
+    "id": 26,
+    "question": "What is the name of the soldier that King David sent to the battle front in order to get him killed?",
+    "answer": "Uriah the Hittite"
+  },
+  {
+    "id": 27,
+    "question": "What is the name of the man who wrestled with God?",
+    "answer": "Jacob"
+  }
+]
       
 
-export { data };
+export { new };
