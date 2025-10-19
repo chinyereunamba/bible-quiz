@@ -95,7 +95,7 @@ const dataOld = [
     },
 ];
 
-const data = [
+const pastdata = [
   {
     "id": 1,
     "question": "Which judge of Israel made a vow that resulted in him sacrificing his daughter?",
@@ -229,7 +229,7 @@ const data = [
 ]
 
 
-const new = [
+const data = [
   {
     "id": 1,
     "question": "What was the name of the man who named all the things in the Garden of Eden?",
@@ -368,4 +368,4 @@ const new = [
 ]
       
 
-export { new };
+export { data };
