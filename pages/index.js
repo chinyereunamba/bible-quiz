@@ -1,4 +1,4 @@
-import { data } from "../components/questions";
+import { new } from "../components/questions";
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
 import qContext from "@/store/context";
@@ -20,7 +20,7 @@ export default function Home() {
     <main className={`${styles.main} ${inter.className}`}>
       <h1>Questions</h1>
       <div className={styles.questions}>
-        {data.map((item, index) => (
+        {new.map((item, index) => (
           <Link
             key={index}
             href={`/question/${item.id}`}
